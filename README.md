@@ -33,4 +33,6 @@ Flight data is managed in the Redux store for sharing between different componen
 <h1>API: https://rapidapi.com/apidojo/api/flight-radar1 </h1>
 
 <h3> SCREEN GIF </h3>
-![radar](https://github.com/goknurgurz/Flight-Radar-Redux/assets/142411104/847aa4d9-da62-4537-831b-93fa766c0976)
+
+ 
+![radar](https://github.com/goknurgurz/Flight-Radar-Redux/assets/142411104/4aca08ab-5d7a-421a-b8aa-5b6d5564e5ab)
